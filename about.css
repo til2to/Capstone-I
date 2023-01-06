@@ -1,0 +1,21 @@
+#banner-section .banner-container {
+  align-items: center !important;
+  justify-content: center;
+}
+
+.py-5 {
+  border: 1px solid rgb(234, 227, 227);
+  padding: 5px 4rem;
+}
+
+@media (min-width: 768px) {
+  #banner-section .main-title {
+    justify-content: center;
+  }
+
+  #banner-section .banner-description {
+    width: 100%;
+    display: flex;
+    text-align: center;
+  }
+}
