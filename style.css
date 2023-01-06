@@ -698,6 +698,7 @@ section#about-wrapper section#main-program-section div.card div.program-overlay 
     width: 100%;
     display: flex;
     text-align: left;
+    background-color: #fff;
   }
 
   #banner-section .banner-container {
