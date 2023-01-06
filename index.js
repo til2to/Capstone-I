@@ -15,37 +15,37 @@ closeSideBarBtn.addEventListener('click', () => {
 // Speakers Array
 const speakers = [
   {
-    img: 'assets/users/100_1.jpg',
+    img: './assets/users/speaker01.png',
     name: 'Yochai Benkler',
     profession: 'Berkman Professor of Entrepreneurial Legal Studies atHarvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book The Wealth of Networks in 2006',
   },
   {
-    img: 'assets/users/100_3.jpg',
+    img: './assets/users/speaker02.png',
     name: 'Yochai Benkler',
     profession: 'Berkman Professor of Entrepreneurial Legal Studies atHarvard Law School',
     description: 'Kilname Chon helped bring the Internet to Asia and is an outspoken advocate for the open web and digital commons.',
   },
   {
-    img: 'assets/users/100_2.jpg',
+    img: './assets/users/speaker03.png',
     name: 'SohYeong Noh',
     profession: 'Director of Art Centre Nabi and a board member of CC Korea',
     description: 'As the main venue for new media art production in Korea, Nabi promotes cross-disciplinary collaboration and understanding among science technology, humanities and the arts.',
   },
   {
-    img: 'assets/users/100_4.jpg',
+    img: './assets/users/speaker04.png',
     name: 'Julia Leda',
     profession: 'President of Young Pirates of Europe',
     description: 'European ingetration political democracy and participation of youth through online as her major condem',
   },
   {
-    img: 'assets/users/100_7.jpg',
+    img: './assets/users/speaker05.png',
     name: 'Lila Tretikov',
     profession: 'Director of Art Centre Nabi and a board member of CC Korea',
     description: 'Lila Tretikov is the European ingetration political democracy and participation of youth through online as her major condem',
   },
   {
-    img: 'assets/users/100_6.jpg',
+    img: './assets/users/speaker06.png',
     name: 'Ryan Becker',
     profession: 'Music Coordinator',
     description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi, voluptatem.',
