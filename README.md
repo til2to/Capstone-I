@@ -152,7 +152,7 @@ If you like this project... thumbs up and please follow my github page
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
+-  Hat tip to Cindy Shin the author of the original design
 - Hat tip to anyone whose code was used
 - Hat tip to anyone who inspired my codebase
 
